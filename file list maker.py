@@ -1,3 +1,8 @@
+# Quickly make list of file of certain format with this python code
+# just enter file format and it will create txt file named {file-type}.txt
+
+
+
 import os
 
 reqft = input("Enter the type of files you want to list : ")
